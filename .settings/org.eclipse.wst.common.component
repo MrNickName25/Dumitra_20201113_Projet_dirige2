@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="Dumitra_20201021_Projet_dirige">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/tests"/>
+                
+        <property name="context-root" value="Dumitra_20201021_Projet_dirige"/>
+                
+        <property name="java-output-path" value="/Dumitra_20201021_Projet_dirige/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
